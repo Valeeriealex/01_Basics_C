@@ -8,7 +8,6 @@ namespace Tasks_IJunior._01_Basics
 {
    internal class Clinic
    {
-       //Вы заходите в поликлинику и видите огромную очередь, вам нужно рассчитать время ожидания в очереди.  
 
        static void Main(string[] args)
        {
